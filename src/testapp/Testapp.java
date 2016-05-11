@@ -8,6 +8,8 @@ public class Testapp {
      */
     public static void main(String[] args) {
         System.err.println("AHOJKY");
+        System.err.println("jak je vole?!");
+        
     }
     
 }
